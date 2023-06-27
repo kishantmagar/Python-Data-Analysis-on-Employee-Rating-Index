@@ -1,0 +1,501 @@
+emp_id,age,age group,Dept,location,education,recruitment_type,job_level,on-site,awards,certification,salary,satisfied,rating
+HR8270,28,20-30,HR,Suburb,Post Graduate,Referral,5,No,1,No,86750,Yes,2
+TECH1860,50,50-60,Technology,Suburb,Post Graduate,Walk-in,3,Yes,2,Yes,42419,No,5
+TECH6390,43,40-50,Technology,Suburb,Under Graduate,Referral,4,No,2,No,65715,No,1
+SAL6191,44,40-50,Sales,City,Post Graduate,On-Campus,2,Yes,0,No,29805,Yes,3
+HR6734,33,30-40,HR,City,Under Graduate,Recruitment Agency,2,No,5,No,29805,Yes,1
+PUR7265,40,40-50,Purchasing,Suburb,Under Graduate,Referral,3,No,7,Yes,42419,Yes,3
+PUR1466,26,20-30,Purchasing,Suburb,Under Graduate,Referral,5,No,2,No,86750,No,5
+TECH5426,25,20-30,Technology,City,Under Graduate,Recruitment Agency,1,No,4,No,24076,No,1
+HR6578,35,30-40,HR,City,Post Graduate,Referral,3,No,0,No,42419,Yes,4
+TECH9322,45,40-50,Technology,City,Post Graduate,Referral,3,No,9,No,42419,No,3
+MKT2685,31,30-40,Marketing,City,Under Graduate,Walk-in,4,Yes,6,No,65715,Yes,4
+TECH1769,43,40-50,Technology,Suburb,Post Graduate,Recruitment Agency,2,No,9,Yes,29805,Yes,1
+TECH7949,28,20-30,Technology,City,Under Graduate,On-Campus,3,Yes,0,No,42419,No,4
+PUR3433,48,40-50,Purchasing,Suburb,Post Graduate,Referral,3,Yes,8,No,42419,Yes,4
+PUR6311,52,50-60,Purchasing,City,Post Graduate,Recruitment Agency,5,Yes,7,No,86750,Yes,1
+PUR6051,50,50-60,Purchasing,City,Under Graduate,Walk-in,5,Yes,6,No,86750,Yes,5
+MKT7420,34,30-40,Marketing,City,Post Graduate,On-Campus,1,Yes,9,No,24076,No,4
+PUR2184,24,20-30,Purchasing,Suburb,Under Graduate,Recruitment Agency,4,No,6,No,65715,Yes,4
+HR5555,54,50-60,HR,Suburb,Post Graduate,On-Campus,1,No,4,No,24076,Yes,5
+SAL4385,25,20-30,Sales,City,Under Graduate,On-Campus,5,No,4,No,86750,Yes,4
+HR7396,25,20-30,HR,Suburb,Under Graduate,On-Campus,2,Yes,4,No,29805,Yes,4
+HR9666,50,50-60,HR,Suburb,Post Graduate,Referral,5,No,0,No,86750,Yes,4
+PUR3558,34,30-40,Purchasing,City,Post Graduate,Referral,4,No,7,Yes,65715,Yes,2
+SAL8849,37,30-40,Sales,City,Under Graduate,Walk-in,5,No,0,Yes,86750,Yes,5
+SAL3047,31,30-40,Sales,Suburb,Post Graduate,Walk-in,4,No,3,Yes,65715,No,4
+SAL3747,53,50-60,Sales,Suburb,Post Graduate,Recruitment Agency,4,No,8,Yes,65715,No,5
+MKT1189,45,40-50,Marketing,Suburb,Under Graduate,Walk-in,4,Yes,8,No,65715,Yes,3
+PUR3734,30,30-40,Purchasing,City,Under Graduate,On-Campus,4,No,4,Yes,65715,No,3
+SAL4005,33,30-40,Sales,City,Post Graduate,On-Campus,4,Yes,3,Yes,65715,No,4
+MKT5658,38,30-40,Marketing,Suburb,Under Graduate,Referral,2,Yes,2,No,29805,Yes,5
+TECH2899,54,50-60,Technology,City,Under Graduate,On-Campus,1,Yes,2,Yes,24076,No,5
+TECH8734,48,40-50,Technology,City,Under Graduate,Recruitment Agency,3,Yes,4,Yes,42419,Yes,5
+MKT2267,49,40-50,Marketing,Suburb,Post Graduate,On-Campus,1,Yes,9,No,24076,Yes,2
+MKT2528,47,40-50,Marketing,Suburb,Post Graduate,On-Campus,4,No,0,No,65715,Yes,3
+PUR4556,44,40-50,Purchasing,City,Under Graduate,Recruitment Agency,2,No,4,No,29805,Yes,5
+PUR4890,26,20-30,Purchasing,City,Post Graduate,Walk-in,5,No,5,Yes,86750,Yes,5
+TECH9838,50,50-60,Technology,Suburb,Under Graduate,Walk-in,2,Yes,6,Yes,29805,No,2
+SAL6393,23,20-30,Sales,City,Post Graduate,Recruitment Agency,4,No,8,No,65715,Yes,2
+TECH9792,46,40-50,Technology,City,Under Graduate,Referral,2,No,2,No,29805,No,5
+SAL9433,29,20-30,Sales,Suburb,Under Graduate,On-Campus,2,Yes,1,Yes,29805,Yes,1
+SAL8513,24,20-30,Sales,Suburb,Post Graduate,Recruitment Agency,4,Yes,2,No,65715,Yes,5
+PUR3612,46,40-50,Purchasing,City,Under Graduate,On-Campus,2,Yes,8,Yes,29805,Yes,5
+HR8041,50,50-60,HR,City,Post Graduate,Referral,3,Yes,6,No,42419,No,2
+HR7235,27,20-30,HR,City,Post Graduate,On-Campus,3,No,8,No,42419,Yes,2
+MKT6486,29,20-30,Marketing,Suburb,Under Graduate,Recruitment Agency,2,Yes,1,Yes,29805,Yes,5
+PUR8099,26,20-30,Purchasing,City,Under Graduate,On-Campus,5,Yes,4,No,86750,Yes,5
+SAL1775,27,20-30,Sales,City,Post Graduate,Walk-in,4,No,3,No,65715,Yes,5
+HR9226,46,40-50,HR,Suburb,Under Graduate,Referral,3,No,1,No,42419,No,2
+SAL4152,23,20-30,Sales,Suburb,Under Graduate,Referral,5,Yes,8,Yes,86750,Yes,5
+HR2585,23,20-30,HR,City,Under Graduate,Referral,2,No,8,No,29805,No,5
+HR4943,37,30-40,HR,Suburb,Under Graduate,Recruitment Agency,5,Yes,5,No,86750,Yes,4
+HR8555,42,40-50,HR,Suburb,Under Graduate,Referral,1,Yes,5,No,24076,No,1
+PUR4073,41,40-50,Purchasing,City,Post Graduate,Walk-in,3,No,7,No,42419,No,3
+TECH2021,51,50-60,Technology,Suburb,Post Graduate,Recruitment Agency,2,No,5,No,29805,Yes,1
+SAL4843,32,30-40,Sales,Suburb,Under Graduate,Walk-in,4,Yes,0,No,65715,Yes,4
+PUR8989,50,50-60,Purchasing,City,Under Graduate,On-Campus,2,Yes,3,Yes,29805,No,3
+PUR7873,40,40-50,Purchasing,Suburb,Under Graduate,On-Campus,4,Yes,6,Yes,65715,Yes,5
+PUR6675,50,50-60,Purchasing,City,Post Graduate,On-Campus,2,No,1,No,29805,Yes,4
+PUR1161,25,20-30,Purchasing,City,Under Graduate,On-Campus,5,Yes,8,Yes,86750,Yes,5
+PUR5297,33,30-40,Purchasing,Suburb,Post Graduate,Walk-in,5,Yes,7,Yes,86750,No,2
+MKT1995,37,30-40,Marketing,Suburb,Post Graduate,Recruitment Agency,5,Yes,7,No,86750,Yes,4
+SAL8629,53,50-60,Sales,Suburb,Post Graduate,Recruitment Agency,1,Yes,6,Yes,24076,Yes,2
+PUR2016,49,40-50,Purchasing,City,Under Graduate,Referral,4,Yes,3,Yes,65715,Yes,4
+SAL8869,52,50-60,Sales,Suburb,Post Graduate,Walk-in,5,No,1,Yes,86750,No,4
+MKT7439,33,30-40,Marketing,City,Under Graduate,On-Campus,1,Yes,2,Yes,24076,Yes,2
+MKT8892,39,30-40,Marketing,Suburb,Post Graduate,Walk-in,4,Yes,5,Yes,65715,No,3
+SAL7863,39,30-40,Sales,Suburb,Under Graduate,Referral,2,Yes,4,Yes,29805,Yes,1
+HR8916,28,20-30,HR,Suburb,Post Graduate,Referral,1,Yes,7,Yes,24076,No,5
+TECH9529,54,50-60,Technology,City,Under Graduate,Walk-in,3,No,5,Yes,42419,Yes,4
+HR1878,27,20-30,HR,Suburb,Post Graduate,Walk-in,1,No,5,No,24076,Yes,5
+HR5887,30,30-40,HR,Suburb,Under Graduate,Walk-in,1,No,0,No,24076,No,2
+HR5859,24,20-30,HR,City,Under Graduate,Recruitment Agency,4,Yes,3,Yes,65715,No,5
+PUR7331,38,30-40,Purchasing,City,Under Graduate,On-Campus,2,Yes,4,Yes,29805,No,2
+MKT9571,42,40-50,Marketing,Suburb,Under Graduate,Walk-in,3,No,2,No,42419,Yes,5
+HR9684,46,40-50,HR,Suburb,Post Graduate,Walk-in,5,No,8,Yes,86750,Yes,1
+MKT8208,34,30-40,Marketing,Suburb,Post Graduate,Walk-in,5,No,0,Yes,86750,Yes,1
+SAL6276,28,20-30,Sales,City,Under Graduate,Referral,1,Yes,5,No,24076,Yes,1
+TECH3062,23,20-30,Technology,City,Post Graduate,Referral,4,Yes,5,No,65715,No,1
+SAL1064,53,50-60,Sales,City,Under Graduate,Recruitment Agency,4,No,9,No,65715,Yes,1
+SAL9006,26,20-30,Sales,City,Under Graduate,On-Campus,5,No,4,Yes,86750,Yes,1
+PUR3568,39,30-40,Purchasing,Suburb,Post Graduate,Recruitment Agency,3,No,4,Yes,42419,Yes,2
+TECH6463,35,30-40,Technology,City,Under Graduate,On-Campus,2,Yes,9,No,29805,Yes,4
+SAL3027,40,40-50,Sales,City,Under Graduate,Referral,3,Yes,4,No,42419,Yes,5
+SAL3695,27,20-30,Sales,City,Post Graduate,Referral,2,Yes,5,Yes,29805,Yes,1
+TECH6258,52,50-60,Technology,Suburb,Under Graduate,Referral,5,No,7,No,86750,Yes,2
+TECH6618,46,40-50,Technology,Suburb,Under Graduate,Recruitment Agency,2,No,1,Yes,29805,No,2
+SAL7736,46,40-50,Sales,City,Under Graduate,Walk-in,4,Yes,5,Yes,65715,Yes,2
+TECH1391,49,40-50,Technology,City,Under Graduate,Walk-in,1,No,0,No,24076,Yes,4
+SAL6892,25,20-30,Sales,Suburb,Post Graduate,Referral,1,Yes,3,No,24076,Yes,5
+SAL4561,33,30-40,Sales,Suburb,Post Graduate,Walk-in,5,No,9,Yes,86750,Yes,4
+PUR7184,35,30-40,Purchasing,Suburb,Post Graduate,Walk-in,4,No,2,No,65715,No,3
+HR4099,26,20-30,HR,Suburb,Under Graduate,Recruitment Agency,3,No,8,No,42419,No,2
+SAL7278,48,40-50,Sales,Suburb,Under Graduate,On-Campus,4,No,2,No,65715,No,3
+MKT9392,49,40-50,Marketing,Suburb,Post Graduate,Referral,1,Yes,5,No,24076,No,1
+HR4104,36,30-40,HR,Suburb,Under Graduate,Referral,1,No,0,Yes,24076,No,1
+HR8215,44,40-50,HR,Suburb,Under Graduate,Recruitment Agency,4,Yes,5,Yes,65715,No,4
+HR3454,33,30-40,HR,City,Under Graduate,Recruitment Agency,4,Yes,3,Yes,65715,Yes,5
+PUR9996,54,50-60,Purchasing,City,Under Graduate,Walk-in,1,Yes,7,Yes,24076,No,3
+SAL3731,49,40-50,Sales,City,Post Graduate,Referral,3,No,8,No,42419,No,5
+PUR9154,32,30-40,Purchasing,City,Post Graduate,On-Campus,5,Yes,3,No,86750,Yes,4
+SAL6056,41,40-50,Sales,City,Post Graduate,Recruitment Agency,5,Yes,9,Yes,86750,No,1
+PUR9110,40,40-50,Purchasing,City,Under Graduate,On-Campus,4,Yes,9,Yes,65715,Yes,5
+PUR4840,28,20-30,Purchasing,Suburb,Post Graduate,On-Campus,5,No,5,No,86750,Yes,5
+MKT2028,49,40-50,Marketing,Suburb,Post Graduate,Referral,1,No,0,Yes,24076,No,1
+PUR8385,51,50-60,Purchasing,City,Under Graduate,Referral,1,Yes,3,Yes,24076,Yes,3
+TECH1502,37,30-40,Technology,City,Under Graduate,Recruitment Agency,4,No,6,No,65715,No,1
+MKT7910,43,40-50,Marketing,Suburb,Post Graduate,Referral,4,Yes,0,Yes,65715,No,5
+PUR7938,52,50-60,Purchasing,Suburb,Post Graduate,Referral,4,Yes,7,No,65715,Yes,3
+HR5488,32,30-40,HR,Suburb,Post Graduate,Referral,3,No,9,No,42419,Yes,3
+TECH1206,27,20-30,Technology,City,Post Graduate,On-Campus,5,Yes,5,Yes,86750,No,1
+TECH6134,48,40-50,Technology,Suburb,Under Graduate,Recruitment Agency,4,No,4,No,65715,Yes,5
+TECH6977,51,50-60,Technology,City,Post Graduate,Walk-in,2,No,9,Yes,29805,Yes,4
+MKT8721,27,20-30,Marketing,City,Post Graduate,On-Campus,2,Yes,8,No,29805,No,5
+PUR8035,32,30-40,Purchasing,Suburb,Under Graduate,Referral,1,No,1,Yes,24076,No,2
+PUR2484,50,50-60,Purchasing,Suburb,Post Graduate,On-Campus,5,No,4,Yes,86750,Yes,4
+HR8858,27,20-30,HR,City,Under Graduate,Referral,4,Yes,5,Yes,65715,No,3
+HR1863,25,20-30,HR,Suburb,Under Graduate,Referral,2,Yes,6,No,29805,No,4
+TECH3790,45,40-50,Technology,Suburb,Under Graduate,On-Campus,5,No,4,No,86750,No,3
+HR8408,28,20-30,HR,City,Post Graduate,Recruitment Agency,1,No,8,Yes,24076,No,3
+MKT9755,26,20-30,Marketing,Suburb,Post Graduate,Referral,3,Yes,0,No,42419,No,4
+PUR6116,40,40-50,Purchasing,City,Under Graduate,Recruitment Agency,5,No,6,Yes,86750,No,3
+TECH7019,50,50-60,Technology,City,Post Graduate,Walk-in,5,No,9,Yes,86750,No,3
+HR2757,31,30-40,HR,Suburb,Post Graduate,Referral,3,No,6,No,42419,Yes,2
+MKT8574,39,30-40,Marketing,City,Under Graduate,Recruitment Agency,5,No,3,Yes,86750,No,5
+MKT7374,51,50-60,Marketing,City,Under Graduate,Recruitment Agency,1,No,8,No,24076,Yes,5
+HR7892,35,30-40,HR,Suburb,Post Graduate,Walk-in,1,No,4,Yes,24076,Yes,2
+PUR2678,49,40-50,Purchasing,Suburb,Under Graduate,Recruitment Agency,3,No,3,No,42419,Yes,4
+HR4242,37,30-40,HR,Suburb,Post Graduate,Recruitment Agency,4,Yes,6,Yes,65715,No,1
+TECH5636,52,50-60,Technology,City,Post Graduate,Walk-in,2,Yes,3,Yes,29805,No,1
+HR2059,42,40-50,HR,City,Post Graduate,Referral,4,Yes,2,No,65715,Yes,1
+MKT7668,39,30-40,Marketing,Suburb,Post Graduate,Recruitment Agency,5,Yes,8,Yes,86750,No,2
+HR4157,35,30-40,HR,City,Under Graduate,Recruitment Agency,2,Yes,7,Yes,29805,Yes,2
+PUR6915,54,50-60,Purchasing,Suburb,Under Graduate,Recruitment Agency,3,No,0,No,42419,No,3
+SAL3693,38,30-40,Sales,Suburb,Under Graduate,On-Campus,3,No,6,Yes,42419,No,1
+HR4627,44,40-50,HR,City,Under Graduate,Walk-in,2,No,8,No,29805,Yes,4
+PUR6450,26,20-30,Purchasing,Suburb,Post Graduate,On-Campus,1,No,7,Yes,24076,Yes,4
+PUR2663,27,20-30,Purchasing,City,Post Graduate,Walk-in,2,Yes,7,No,29805,Yes,1
+MKT6592,27,20-30,Marketing,City,Under Graduate,Referral,5,No,5,Yes,86750,No,1
+PUR8392,31,30-40,Purchasing,Suburb,Post Graduate,Referral,1,No,3,Yes,24076,Yes,1
+PUR2306,39,30-40,Purchasing,City,Post Graduate,Recruitment Agency,3,Yes,7,Yes,42419,No,2
+PUR7776,35,30-40,Purchasing,Suburb,Post Graduate,Walk-in,2,No,2,No,29805,No,2
+PUR6864,24,20-30,Purchasing,City,Under Graduate,Referral,4,No,8,No,65715,No,2
+TECH8526,35,30-40,Technology,City,Under Graduate,Walk-in,4,Yes,1,No,65715,Yes,5
+TECH9901,44,40-50,Technology,City,Under Graduate,Referral,5,No,1,No,86750,Yes,4
+MKT6575,43,40-50,Marketing,Suburb,Post Graduate,On-Campus,4,No,6,Yes,65715,Yes,4
+HR6530,49,40-50,HR,City,Under Graduate,Referral,2,No,9,Yes,29805,No,3
+PUR5413,45,40-50,Purchasing,Suburb,Under Graduate,On-Campus,2,No,3,No,29805,No,2
+HR4748,41,40-50,HR,City,Under Graduate,Referral,4,No,9,No,65715,Yes,5
+HR1663,25,20-30,HR,City,Under Graduate,Recruitment Agency,2,Yes,7,No,29805,No,5
+MKT2998,32,30-40,Marketing,Suburb,Under Graduate,On-Campus,5,Yes,8,Yes,86750,No,4
+PUR8994,24,20-30,Purchasing,Suburb,Under Graduate,Referral,1,Yes,6,No,24076,Yes,2
+PUR2495,54,50-60,Purchasing,Suburb,Post Graduate,Recruitment Agency,5,Yes,4,No,86750,Yes,3
+SAL4304,35,30-40,Sales,Suburb,Post Graduate,On-Campus,5,Yes,7,Yes,86750,Yes,2
+HR4763,41,40-50,HR,Suburb,Under Graduate,Recruitment Agency,2,Yes,3,Yes,29805,No,1
+HR6232,48,40-50,HR,City,Under Graduate,Walk-in,1,No,1,No,24076,No,2
+TECH2853,39,30-40,Technology,City,Post Graduate,Walk-in,2,Yes,5,Yes,29805,No,1
+SAL7585,43,40-50,Sales,Suburb,Post Graduate,On-Campus,3,Yes,8,No,42419,No,1
+TECH2291,36,30-40,Technology,City,Under Graduate,Referral,2,No,0,Yes,29805,No,3
+TECH4581,53,50-60,Technology,City,Under Graduate,On-Campus,2,No,9,No,29805,Yes,4
+TECH8554,34,30-40,Technology,City,Under Graduate,Recruitment Agency,2,Yes,6,No,29805,No,2
+MKT8280,43,40-50,Marketing,Suburb,Under Graduate,Referral,1,No,9,No,24076,No,1
+MKT2636,34,30-40,Marketing,City,Post Graduate,Walk-in,2,Yes,8,No,29805,No,2
+TECH4696,33,30-40,Technology,City,Under Graduate,Referral,1,No,9,Yes,24076,Yes,4
+SAL1698,29,20-30,Sales,City,Under Graduate,Walk-in,4,Yes,8,Yes,65715,Yes,4
+HR5737,26,20-30,HR,Suburb,Under Graduate,Referral,3,No,9,Yes,42419,Yes,5
+SAL1854,41,40-50,Sales,City,Under Graduate,Referral,1,No,2,Yes,24076,No,4
+PUR9164,23,20-30,Purchasing,City,Post Graduate,Referral,4,Yes,4,No,65715,Yes,3
+MKT6855,50,50-60,Marketing,Suburb,Post Graduate,Recruitment Agency,1,Yes,7,No,24076,Yes,1
+HR8392,53,50-60,HR,Suburb,Post Graduate,Recruitment Agency,1,Yes,7,Yes,24076,Yes,5
+HR7528,46,40-50,HR,City,Under Graduate,On-Campus,3,Yes,3,Yes,42419,No,3
+PUR6249,51,50-60,Purchasing,City,Under Graduate,On-Campus,5,Yes,0,Yes,86750,Yes,2
+PUR6172,25,20-30,Purchasing,Suburb,Post Graduate,Walk-in,5,No,0,Yes,86750,No,1
+TECH2707,35,30-40,Technology,Suburb,Under Graduate,Recruitment Agency,1,Yes,3,Yes,24076,No,4
+MKT6791,37,30-40,Marketing,Suburb,Under Graduate,Walk-in,2,Yes,5,No,29805,Yes,1
+MKT6535,24,20-30,Marketing,Suburb,Post Graduate,On-Campus,4,No,7,No,65715,No,2
+SAL5931,33,30-40,Sales,Suburb,Post Graduate,Walk-in,2,No,5,No,29805,Yes,5
+TECH4510,26,20-30,Technology,Suburb,Post Graduate,On-Campus,2,Yes,8,Yes,29805,No,5
+TECH1202,41,40-50,Technology,Suburb,Post Graduate,Recruitment Agency,1,No,8,Yes,24076,Yes,5
+TECH5218,51,50-60,Technology,City,Under Graduate,Referral,1,No,1,Yes,24076,Yes,4
+TECH9958,39,30-40,Technology,Suburb,Under Graduate,Recruitment Agency,1,Yes,9,Yes,24076,Yes,3
+MKT5389,25,20-30,Marketing,Suburb,Post Graduate,Walk-in,1,No,0,No,24076,No,3
+MKT3327,50,50-60,Marketing,City,Under Graduate,Walk-in,5,No,1,No,86750,Yes,1
+TECH9004,40,40-50,Technology,Suburb,Post Graduate,Recruitment Agency,1,Yes,4,Yes,24076,No,4
+SAL3931,30,30-40,Sales,Suburb,Post Graduate,Recruitment Agency,5,Yes,3,No,86750,Yes,5
+HR8777,44,40-50,HR,City,Under Graduate,On-Campus,5,No,3,No,86750,No,5
+HR1197,47,40-50,HR,Suburb,Post Graduate,Walk-in,1,No,8,Yes,24076,No,2
+SAL8125,46,40-50,Sales,City,Under Graduate,Walk-in,3,Yes,7,Yes,42419,Yes,2
+TECH2930,48,40-50,Technology,City,Under Graduate,Recruitment Agency,4,No,5,Yes,65715,Yes,5
+MKT7287,41,40-50,Marketing,City,Under Graduate,Referral,2,No,0,Yes,29805,Yes,5
+HR9800,27,20-30,HR,City,Under Graduate,Walk-in,5,No,1,Yes,86750,Yes,4
+PUR5282,29,20-30,Purchasing,Suburb,Post Graduate,Referral,4,Yes,5,Yes,65715,Yes,3
+PUR3511,43,40-50,Purchasing,City,Under Graduate,Recruitment Agency,3,No,1,No,42419,No,2
+SAL1659,30,30-40,Sales,City,Post Graduate,Recruitment Agency,2,No,9,No,29805,Yes,3
+TECH3811,50,50-60,Technology,Suburb,Post Graduate,On-Campus,2,Yes,4,Yes,29805,Yes,4
+HR8098,27,20-30,HR,City,Post Graduate,Walk-in,5,No,4,No,86750,No,5
+TECH7546,39,30-40,Technology,City,Post Graduate,Referral,1,No,5,Yes,24076,Yes,3
+HR2986,27,20-30,HR,City,Under Graduate,On-Campus,3,Yes,5,Yes,42419,Yes,5
+SAL9338,26,20-30,Sales,City,Under Graduate,Walk-in,5,Yes,5,Yes,86750,No,5
+SAL3911,44,40-50,Sales,Suburb,Post Graduate,On-Campus,3,Yes,1,Yes,42419,Yes,1
+PUR2734,41,40-50,Purchasing,City,Post Graduate,Recruitment Agency,1,Yes,9,No,24076,Yes,3
+TECH2843,53,50-60,Technology,Suburb,Under Graduate,Walk-in,1,No,2,Yes,24076,Yes,3
+PUR9680,54,50-60,Purchasing,Suburb,Post Graduate,On-Campus,5,No,5,No,86750,No,5
+TECH3976,49,40-50,Technology,City,Under Graduate,On-Campus,1,Yes,7,Yes,24076,Yes,4
+PUR2959,43,40-50,Purchasing,City,Post Graduate,Referral,4,Yes,0,Yes,65715,No,1
+MKT6759,24,20-30,Marketing,City,Under Graduate,On-Campus,2,No,0,Yes,29805,Yes,5
+MKT7694,33,30-40,Marketing,City,Post Graduate,Walk-in,5,Yes,1,No,86750,No,2
+MKT3385,44,40-50,Marketing,Suburb,Post Graduate,Walk-in,3,No,5,Yes,42419,Yes,2
+MKT5736,35,30-40,Marketing,Suburb,Under Graduate,Referral,4,Yes,8,Yes,65715,No,1
+HR2802,37,30-40,HR,Suburb,Post Graduate,Walk-in,5,No,3,Yes,86750,No,4
+MKT9155,34,30-40,Marketing,City,Post Graduate,Recruitment Agency,1,Yes,2,No,24076,No,5
+SAL9120,44,40-50,Sales,Suburb,Under Graduate,Walk-in,1,Yes,7,No,24076,No,3
+SAL7616,43,40-50,Sales,City,Post Graduate,Walk-in,1,No,9,No,24076,No,1
+HR6534,44,40-50,HR,City,Under Graduate,On-Campus,1,Yes,8,Yes,24076,No,4
+MKT5061,33,30-40,Marketing,City,Under Graduate,On-Campus,3,No,4,No,42419,Yes,3
+MKT1262,29,20-30,Marketing,City,Post Graduate,Walk-in,4,No,8,Yes,65715,Yes,2
+MKT7287,50,50-60,Marketing,City,Post Graduate,Referral,2,No,1,No,29805,No,2
+PUR9815,27,20-30,Purchasing,Suburb,Post Graduate,On-Campus,3,No,2,No,42419,No,3
+TECH3049,39,30-40,Technology,Suburb,Post Graduate,Referral,3,No,6,Yes,42419,No,1
+PUR6423,46,40-50,Purchasing,City,Post Graduate,Walk-in,2,Yes,6,No,29805,No,2
+TECH5548,42,40-50,Technology,Suburb,Post Graduate,Walk-in,2,Yes,5,Yes,29805,Yes,5
+MKT4108,31,30-40,Marketing,City,Post Graduate,Recruitment Agency,1,No,5,Yes,24076,No,3
+MKT8158,36,30-40,Marketing,City,Under Graduate,On-Campus,3,Yes,1,No,42419,Yes,3
+PUR8400,48,40-50,Purchasing,City,Post Graduate,Walk-in,5,No,9,Yes,86750,Yes,2
+PUR4170,34,30-40,Purchasing,Suburb,Under Graduate,Recruitment Agency,2,Yes,5,Yes,29805,No,1
+TECH3255,28,20-30,Technology,City,Post Graduate,On-Campus,2,Yes,3,No,29805,No,5
+SAL2154,39,30-40,Sales,City,Post Graduate,Walk-in,4,Yes,2,No,65715,Yes,1
+TECH5499,41,40-50,Technology,Suburb,Under Graduate,Walk-in,5,Yes,1,Yes,86750,Yes,4
+PUR7295,41,40-50,Purchasing,Suburb,Post Graduate,On-Campus,5,No,0,No,86750,No,4
+PUR7197,48,40-50,Purchasing,Suburb,Post Graduate,On-Campus,2,No,4,Yes,29805,No,2
+HR2648,38,30-40,HR,City,Under Graduate,On-Campus,1,Yes,1,Yes,24076,No,2
+PUR6539,34,30-40,Purchasing,City,Post Graduate,Walk-in,4,Yes,1,No,65715,Yes,2
+HR5199,34,30-40,HR,Suburb,Post Graduate,Walk-in,5,No,6,No,86750,Yes,4
+SAL9445,42,40-50,Sales,City,Post Graduate,Recruitment Agency,2,Yes,7,No,29805,No,1
+TECH3557,54,50-60,Technology,Suburb,Under Graduate,Referral,5,No,9,No,86750,Yes,1
+TECH6592,28,20-30,Technology,Suburb,Post Graduate,On-Campus,4,No,7,Yes,65715,Yes,2
+HR1098,53,50-60,HR,City,Post Graduate,Walk-in,4,No,3,Yes,65715,No,5
+TECH3200,45,40-50,Technology,City,Post Graduate,Walk-in,3,Yes,0,No,42419,No,1
+PUR3961,48,40-50,Purchasing,Suburb,Post Graduate,On-Campus,2,No,6,No,29805,Yes,4
+MKT5973,26,20-30,Marketing,Suburb,Under Graduate,Referral,4,Yes,0,Yes,65715,Yes,3
+HR5433,28,20-30,HR,Suburb,Under Graduate,On-Campus,3,No,3,Yes,42419,No,3
+TECH3869,33,30-40,Technology,Suburb,Post Graduate,Referral,3,Yes,7,Yes,42419,No,3
+HR1956,23,20-30,HR,City,Post Graduate,Walk-in,5,Yes,1,Yes,86750,No,5
+HR9352,52,50-60,HR,Suburb,Under Graduate,Referral,5,Yes,5,No,86750,No,2
+MKT6699,46,40-50,Marketing,Suburb,Under Graduate,Recruitment Agency,3,No,5,Yes,42419,No,4
+PUR7944,45,40-50,Purchasing,Suburb,Post Graduate,Walk-in,5,No,8,Yes,86750,Yes,5
+HR5493,37,30-40,HR,City,Under Graduate,Recruitment Agency,4,Yes,4,No,65715,Yes,4
+TECH5911,49,40-50,Technology,City,Post Graduate,On-Campus,1,Yes,9,Yes,24076,Yes,4
+SAL4987,33,30-40,Sales,Suburb,Under Graduate,On-Campus,4,Yes,3,Yes,65715,Yes,2
+HR7015,54,50-60,HR,City,Under Graduate,On-Campus,3,No,4,No,42419,No,3
+HR2218,47,40-50,HR,City,Under Graduate,Referral,3,No,9,No,42419,No,2
+MKT5496,41,40-50,Marketing,City,Under Graduate,Walk-in,4,No,4,No,65715,No,5
+PUR5735,40,40-50,Purchasing,Suburb,Post Graduate,On-Campus,5,No,7,Yes,86750,Yes,5
+SAL5555,39,30-40,Sales,Suburb,Under Graduate,On-Campus,5,Yes,9,Yes,86750,Yes,5
+TECH9050,41,40-50,Technology,City,Under Graduate,Walk-in,3,Yes,7,No,42419,Yes,2
+SAL4446,43,40-50,Sales,Suburb,Post Graduate,On-Campus,2,No,1,No,29805,No,4
+TECH2045,36,30-40,Technology,Suburb,Under Graduate,Recruitment Agency,5,No,6,Yes,86750,Yes,4
+PUR7893,49,40-50,Purchasing,City,Under Graduate,Walk-in,4,Yes,7,No,65715,No,1
+TECH2693,40,40-50,Technology,City,Post Graduate,Walk-in,5,No,5,No,86750,No,5
+MKT4436,50,50-60,Marketing,Suburb,Under Graduate,Walk-in,4,No,4,No,65715,No,4
+MKT9754,41,40-50,Marketing,City,Post Graduate,Recruitment Agency,3,No,8,Yes,42419,No,1
+MKT6895,37,30-40,Marketing,Suburb,Post Graduate,Walk-in,5,No,2,Yes,86750,No,4
+MKT4354,53,50-60,Marketing,Suburb,Post Graduate,Recruitment Agency,4,No,9,Yes,65715,No,5
+SAL1225,37,30-40,Sales,City,Post Graduate,Walk-in,3,No,3,Yes,42419,Yes,3
+PUR5893,26,20-30,Purchasing,Suburb,Under Graduate,Referral,2,Yes,8,Yes,29805,No,5
+TECH8022,29,20-30,Technology,Suburb,Post Graduate,On-Campus,4,No,5,Yes,65715,No,2
+TECH6600,35,30-40,Technology,City,Under Graduate,Referral,2,No,7,No,29805,Yes,4
+MKT8996,25,20-30,Marketing,City,Under Graduate,On-Campus,2,Yes,6,Yes,29805,No,4
+MKT8683,38,30-40,Marketing,City,Under Graduate,Recruitment Agency,1,Yes,1,Yes,24076,Yes,2
+HR5642,53,50-60,HR,Suburb,Under Graduate,Referral,5,Yes,2,No,86750,Yes,2
+PUR8679,31,30-40,Purchasing,City,Under Graduate,Walk-in,4,No,0,Yes,65715,Yes,3
+SAL9208,30,30-40,Sales,City,Under Graduate,On-Campus,2,Yes,8,Yes,29805,No,4
+TECH8339,42,40-50,Technology,City,Under Graduate,On-Campus,1,No,6,No,24076,No,4
+HR3205,35,30-40,HR,City,Under Graduate,Referral,3,No,0,No,42419,Yes,3
+HR2069,39,30-40,HR,Suburb,Under Graduate,Recruitment Agency,4,No,2,No,65715,No,1
+TECH4444,39,30-40,Technology,Suburb,Under Graduate,Referral,2,Yes,3,Yes,29805,No,3
+SAL2060,39,30-40,Sales,City,Post Graduate,Recruitment Agency,5,Yes,3,No,86750,Yes,5
+HR3327,23,20-30,HR,Suburb,Post Graduate,Recruitment Agency,1,Yes,4,Yes,24076,Yes,4
+HR4420,54,50-60,HR,City,Post Graduate,On-Campus,2,Yes,2,Yes,29805,No,2
+PUR1301,30,30-40,Purchasing,City,Under Graduate,Referral,5,Yes,2,Yes,86750,Yes,5
+SAL1606,41,40-50,Sales,Suburb,Post Graduate,Referral,2,No,0,Yes,29805,Yes,4
+HR4170,53,50-60,HR,Suburb,Post Graduate,Recruitment Agency,4,No,6,No,65715,Yes,3
+SAL1699,28,20-30,Sales,City,Post Graduate,Referral,4,No,9,No,65715,No,5
+TECH6088,25,20-30,Technology,City,Under Graduate,Walk-in,4,No,0,Yes,65715,No,4
+MKT1190,49,40-50,Marketing,Suburb,Under Graduate,Walk-in,1,Yes,1,No,24076,No,1
+HR1980,27,20-30,HR,City,Under Graduate,Referral,4,Yes,3,Yes,65715,Yes,1
+PUR3975,35,30-40,Purchasing,Suburb,Under Graduate,Referral,5,No,3,Yes,86750,No,2
+TECH7102,37,30-40,Technology,City,Post Graduate,Recruitment Agency,2,Yes,4,Yes,29805,Yes,4
+SAL2184,36,30-40,Sales,City,Post Graduate,Walk-in,3,Yes,1,No,42419,No,1
+TECH4327,51,50-60,Technology,Suburb,Post Graduate,Walk-in,5,No,3,Yes,86750,No,3
+HR4394,53,50-60,HR,Suburb,Post Graduate,On-Campus,5,No,0,Yes,86750,Yes,4
+SAL9319,45,40-50,Sales,Suburb,Under Graduate,Recruitment Agency,4,Yes,1,No,65715,No,3
+MKT2816,38,30-40,Marketing,Suburb,Under Graduate,On-Campus,1,Yes,0,No,24076,Yes,3
+TECH6854,40,40-50,Technology,Suburb,Under Graduate,Walk-in,2,No,9,No,29805,No,1
+HR7709,54,50-60,HR,Suburb,Post Graduate,Recruitment Agency,1,No,9,No,24076,No,4
+PUR1569,44,40-50,Purchasing,Suburb,Under Graduate,Referral,2,No,3,Yes,29805,Yes,5
+SAL6442,51,50-60,Sales,City,Under Graduate,Recruitment Agency,2,Yes,3,No,29805,Yes,1
+TECH2895,44,40-50,Technology,City,Post Graduate,Referral,1,No,6,Yes,24076,Yes,1
+TECH3733,33,30-40,Technology,City,Post Graduate,Referral,5,No,9,No,86750,No,4
+MKT4863,25,20-30,Marketing,Suburb,Under Graduate,Recruitment Agency,2,Yes,8,No,29805,No,4
+MKT8455,44,40-50,Marketing,Suburb,Under Graduate,Referral,1,Yes,8,No,24076,No,3
+PUR5014,32,30-40,Purchasing,Suburb,Under Graduate,On-Campus,2,Yes,4,No,29805,Yes,4
+PUR2686,32,30-40,Purchasing,City,Under Graduate,Walk-in,3,Yes,9,No,42419,Yes,3
+HR4009,54,50-60,HR,Suburb,Under Graduate,Referral,5,Yes,0,No,86750,Yes,1
+HR8806,52,50-60,HR,Suburb,Under Graduate,On-Campus,4,No,0,Yes,65715,No,2
+PUR1154,43,40-50,Purchasing,City,Post Graduate,Referral,2,No,5,No,29805,No,5
+PUR2409,38,30-40,Purchasing,Suburb,Post Graduate,Walk-in,3,Yes,1,No,42419,Yes,1
+SAL1784,34,30-40,Sales,City,Post Graduate,On-Campus,4,Yes,7,No,65715,No,4
+MKT9096,24,20-30,Marketing,City,Under Graduate,Walk-in,4,Yes,8,No,65715,Yes,5
+HR8560,31,30-40,HR,Suburb,Post Graduate,Walk-in,2,Yes,3,Yes,29805,No,2
+MKT8343,46,40-50,Marketing,Suburb,Under Graduate,On-Campus,1,Yes,4,No,24076,No,2
+MKT8206,25,20-30,Marketing,Suburb,Under Graduate,On-Campus,2,No,7,No,29805,Yes,3
+PUR6596,46,40-50,Purchasing,City,Post Graduate,On-Campus,3,No,2,No,42419,No,5
+SAL6801,52,50-60,Sales,City,Under Graduate,Recruitment Agency,4,No,4,No,65715,No,3
+TECH3806,47,40-50,Technology,City,Under Graduate,On-Campus,2,No,2,Yes,29805,Yes,1
+SAL1537,52,50-60,Sales,Suburb,Post Graduate,On-Campus,1,Yes,9,No,24076,Yes,5
+SAL6986,37,30-40,Sales,Suburb,Post Graduate,On-Campus,2,No,2,Yes,29805,No,1
+MKT2841,25,20-30,Marketing,Suburb,Post Graduate,On-Campus,5,Yes,2,No,86750,Yes,3
+SAL9716,41,40-50,Sales,Suburb,Under Graduate,Referral,1,Yes,6,Yes,24076,No,5
+HR7971,40,40-50,HR,City,Post Graduate,Recruitment Agency,3,Yes,6,Yes,42419,Yes,3
+MKT6625,30,30-40,Marketing,City,Post Graduate,Walk-in,4,No,6,No,65715,No,5
+HR3950,48,40-50,HR,City,Under Graduate,On-Campus,2,Yes,9,No,29805,No,3
+TECH8992,39,30-40,Technology,City,Post Graduate,Referral,1,No,7,Yes,24076,Yes,2
+MKT5780,30,30-40,Marketing,Suburb,Post Graduate,Referral,5,No,4,Yes,86750,No,3
+TECH3368,29,20-30,Technology,Suburb,Post Graduate,Referral,1,Yes,4,No,24076,No,2
+MKT7655,52,50-60,Marketing,Suburb,Under Graduate,Walk-in,5,Yes,3,Yes,86750,Yes,3
+PUR9173,29,20-30,Purchasing,City,Under Graduate,On-Campus,3,Yes,6,Yes,42419,Yes,5
+SAL5495,25,20-30,Sales,City,Under Graduate,Recruitment Agency,4,No,9,Yes,65715,No,5
+PUR7002,23,20-30,Purchasing,Suburb,Under Graduate,Recruitment Agency,3,Yes,3,No,42419,Yes,5
+TECH7614,26,20-30,Technology,Suburb,Post Graduate,Referral,2,No,1,Yes,29805,Yes,4
+SAL6919,47,40-50,Sales,City,Under Graduate,Walk-in,1,Yes,3,Yes,24076,No,1
+MKT1853,27,20-30,Marketing,Suburb,Under Graduate,Walk-in,5,Yes,7,Yes,86750,No,5
+SAL5146,23,20-30,Sales,City,Post Graduate,Walk-in,5,No,8,No,86750,Yes,2
+HR4769,37,30-40,HR,City,Post Graduate,Recruitment Agency,1,No,2,No,24076,Yes,5
+SAL1574,27,20-30,Sales,City,Post Graduate,Referral,1,No,6,Yes,24076,Yes,4
+HR2148,35,30-40,HR,Suburb,Under Graduate,On-Campus,2,No,8,No,29805,No,2
+SAL7293,30,30-40,Sales,Suburb,Under Graduate,Recruitment Agency,3,No,3,Yes,42419,No,4
+HR7457,30,30-40,HR,City,Under Graduate,Referral,5,No,9,No,86750,No,2
+TECH8509,27,20-30,Technology,Suburb,Post Graduate,Referral,2,Yes,2,No,29805,No,3
+PUR5777,50,50-60,Purchasing,City,Post Graduate,On-Campus,3,Yes,4,Yes,42419,No,1
+MKT4854,54,50-60,Marketing,City,Under Graduate,On-Campus,2,No,0,No,29805,No,1
+SAL3491,31,30-40,Sales,City,Post Graduate,On-Campus,5,Yes,2,No,86750,No,4
+PUR4124,53,50-60,Purchasing,City,Post Graduate,Walk-in,1,No,7,No,24076,Yes,1
+MKT6691,23,20-30,Marketing,Suburb,Post Graduate,On-Campus,1,Yes,7,Yes,24076,Yes,4
+MKT4051,26,20-30,Marketing,City,Under Graduate,Referral,3,Yes,3,No,42419,No,4
+HR1004,25,20-30,HR,City,Post Graduate,On-Campus,4,No,1,No,65715,No,4
+TECH6222,24,20-30,Technology,Suburb,Post Graduate,Referral,3,No,7,Yes,42419,No,1
+TECH6315,53,50-60,Technology,City,Under Graduate,Recruitment Agency,4,No,7,No,65715,Yes,4
+PUR5869,30,30-40,Purchasing,City,Under Graduate,Walk-in,2,Yes,9,No,29805,No,1
+TECH1876,45,40-50,Technology,Suburb,Post Graduate,Recruitment Agency,2,No,3,No,29805,Yes,4
+SAL8027,31,30-40,Sales,Suburb,Post Graduate,Recruitment Agency,5,Yes,2,No,86750,Yes,5
+TECH5142,24,20-30,Technology,Suburb,Under Graduate,Referral,4,No,1,No,65715,Yes,4
+PUR7966,36,30-40,Purchasing,City,Under Graduate,Recruitment Agency,5,Yes,8,Yes,86750,Yes,2
+TECH8079,36,30-40,Technology,Suburb,Post Graduate,Referral,1,Yes,0,Yes,24076,Yes,4
+SAL8987,54,50-60,Sales,Suburb,Post Graduate,On-Campus,4,No,6,No,65715,No,3
+HR7799,26,20-30,HR,City,Post Graduate,On-Campus,3,Yes,4,No,42419,No,4
+PUR5465,52,50-60,Purchasing,City,Post Graduate,Referral,1,Yes,7,No,24076,Yes,2
+HR1635,53,50-60,HR,City,Under Graduate,On-Campus,1,No,3,Yes,24076,No,2
+HR2693,28,20-30,HR,City,Post Graduate,Walk-in,3,Yes,6,Yes,42419,Yes,1
+HR5752,33,30-40,HR,City,Post Graduate,Recruitment Agency,1,No,4,No,24076,Yes,5
+MKT9311,25,20-30,Marketing,Suburb,Under Graduate,Walk-in,4,No,4,No,65715,No,4
+MKT1830,30,30-40,Marketing,Suburb,Post Graduate,Recruitment Agency,5,No,8,Yes,86750,No,1
+HR6177,25,20-30,HR,Suburb,Under Graduate,On-Campus,1,No,8,No,24076,No,5
+PUR9932,36,30-40,Purchasing,City,Post Graduate,Walk-in,4,Yes,8,Yes,65715,No,4
+SAL9308,50,50-60,Sales,City,Post Graduate,On-Campus,2,Yes,5,Yes,29805,No,3
+SAL6949,35,30-40,Sales,City,Under Graduate,Recruitment Agency,4,Yes,5,No,65715,Yes,4
+TECH3838,35,30-40,Technology,Suburb,Under Graduate,Referral,5,No,4,Yes,86750,No,2
+PUR2150,54,50-60,Purchasing,Suburb,Post Graduate,Referral,4,Yes,8,No,65715,No,2
+MKT8560,24,20-30,Marketing,City,Post Graduate,Walk-in,3,Yes,9,No,42419,No,3
+HR2931,35,30-40,HR,Suburb,Post Graduate,On-Campus,5,No,7,No,86750,Yes,1
+TECH2664,51,50-60,Technology,City,Under Graduate,On-Campus,2,No,6,No,29805,No,5
+SAL2081,41,40-50,Sales,Suburb,Post Graduate,Walk-in,3,Yes,6,No,42419,Yes,4
+MKT1512,49,40-50,Marketing,Suburb,Under Graduate,Referral,4,No,5,No,65715,No,2
+MKT8805,28,20-30,Marketing,Suburb,Under Graduate,Recruitment Agency,5,No,4,Yes,86750,No,1
+HR6237,38,30-40,HR,City,Post Graduate,Walk-in,2,No,3,Yes,29805,Yes,3
+SAL1559,24,20-30,Sales,Suburb,Under Graduate,Recruitment Agency,3,No,2,Yes,42419,No,2
+PUR4672,30,30-40,Purchasing,Suburb,Post Graduate,Referral,2,Yes,2,Yes,29805,No,3
+MKT8404,39,30-40,Marketing,City,Post Graduate,On-Campus,4,No,5,No,65715,Yes,4
+HR4343,45,40-50,HR,Suburb,Post Graduate,Referral,2,No,3,Yes,29805,No,5
+PUR5070,24,20-30,Purchasing,City,Post Graduate,Walk-in,1,No,5,Yes,24076,Yes,2
+SAL1580,32,30-40,Sales,City,Post Graduate,On-Campus,3,No,2,Yes,42419,Yes,2
+MKT8004,50,50-60,Marketing,City,Under Graduate,Walk-in,2,No,3,No,29805,Yes,4
+PUR9130,38,30-40,Purchasing,City,Under Graduate,Walk-in,4,No,8,Yes,65715,Yes,1
+PUR4147,28,20-30,Purchasing,City,Post Graduate,Referral,4,No,4,No,65715,Yes,5
+PUR5249,50,50-60,Purchasing,Suburb,Post Graduate,Walk-in,2,No,6,Yes,29805,No,2
+MKT2679,24,20-30,Marketing,City,Under Graduate,Referral,4,Yes,9,No,65715,No,5
+MKT4506,24,20-30,Marketing,City,Under Graduate,On-Campus,5,No,1,No,86750,No,2
+TECH8253,48,40-50,Technology,City,Under Graduate,Referral,5,Yes,4,Yes,86750,Yes,5
+SAL3744,35,30-40,Sales,City,Under Graduate,On-Campus,5,No,8,No,86750,Yes,3
+HR6188,46,40-50,HR,Suburb,Post Graduate,Referral,1,No,2,No,24076,Yes,2
+PUR3141,37,30-40,Purchasing,City,Post Graduate,Recruitment Agency,2,No,8,Yes,29805,Yes,5
+TECH7617,53,50-60,Technology,Suburb,Under Graduate,Recruitment Agency,1,No,5,Yes,24076,No,1
+HR3479,50,50-60,HR,City,Post Graduate,Walk-in,4,Yes,3,Yes,65715,No,3
+TECH7484,24,20-30,Technology,Suburb,Under Graduate,Referral,1,No,6,No,24076,Yes,3
+MKT8421,29,20-30,Marketing,City,Post Graduate,Referral,4,No,7,No,65715,Yes,1
+PUR5452,25,20-30,Purchasing,City,Under Graduate,On-Campus,4,Yes,5,No,65715,No,5
+HR6881,30,30-40,HR,Suburb,Post Graduate,Walk-in,3,Yes,4,Yes,42419,Yes,4
+HR7665,45,40-50,HR,City,Under Graduate,Referral,5,No,5,No,86750,Yes,1
+HR3849,36,30-40,HR,Suburb,Under Graduate,Walk-in,4,Yes,4,No,65715,Yes,5
+HR8390,46,40-50,HR,City,Post Graduate,Recruitment Agency,3,Yes,7,No,42419,No,1
+HR7905,52,50-60,HR,Suburb,Under Graduate,Referral,5,Yes,0,No,86750,No,1
+TECH3489,45,40-50,Technology,City,Post Graduate,Referral,4,No,6,No,65715,Yes,2
+PUR5611,49,40-50,Purchasing,City,Post Graduate,Walk-in,4,No,9,No,65715,No,5
+MKT3839,44,40-50,Marketing,Suburb,Under Graduate,Referral,1,No,9,No,24076,Yes,4
+MKT9527,51,50-60,Marketing,City,Post Graduate,Walk-in,1,Yes,1,Yes,24076,Yes,2
+MKT6878,29,20-30,Marketing,City,Post Graduate,Referral,5,No,8,Yes,86750,No,1
+MKT7303,43,40-50,Marketing,City,Post Graduate,On-Campus,4,Yes,0,Yes,65715,Yes,1
+TECH1851,29,20-30,Technology,City,Post Graduate,Walk-in,2,No,9,No,29805,Yes,1
+SAL2687,23,20-30,Sales,City,Post Graduate,Referral,1,No,5,No,24076,No,5
+PUR7833,39,30-40,Purchasing,City,Under Graduate,Recruitment Agency,5,Yes,8,Yes,86750,Yes,5
+HR3427,31,30-40,HR,Suburb,Post Graduate,Referral,4,No,0,No,65715,Yes,2
+SAL5000,52,50-60,Sales,Suburb,Post Graduate,Recruitment Agency,4,Yes,3,Yes,65715,Yes,4
+MKT6052,43,40-50,Marketing,Suburb,Post Graduate,Recruitment Agency,2,Yes,3,No,29805,No,2
+SAL3738,35,30-40,Sales,City,Post Graduate,On-Campus,5,No,8,No,86750,Yes,3
+PUR6732,43,40-50,Purchasing,Suburb,Post Graduate,Walk-in,4,Yes,4,Yes,65715,No,1
+HR6387,41,40-50,HR,City,Under Graduate,Referral,1,No,4,Yes,24076,Yes,1
+HR9002,43,40-50,HR,City,Post Graduate,On-Campus,2,No,5,Yes,29805,Yes,1
+PUR6536,41,40-50,Purchasing,City,Under Graduate,Referral,5,Yes,0,Yes,86750,Yes,2
+PUR4913,47,40-50,Purchasing,City,Under Graduate,Recruitment Agency,2,No,0,Yes,29805,Yes,2
+MKT2066,47,40-50,Marketing,Suburb,Under Graduate,Walk-in,1,Yes,8,No,24076,No,1
+HR8723,44,40-50,HR,City,Under Graduate,Referral,5,No,2,No,86750,No,2
+SAL5380,53,50-60,Sales,Suburb,Post Graduate,Referral,2,No,3,No,29805,Yes,5
+TECH5107,39,30-40,Technology,City,Under Graduate,Recruitment Agency,3,No,0,Yes,42419,Yes,5
+TECH6726,45,40-50,Technology,Suburb,Under Graduate,Referral,1,No,8,Yes,24076,Yes,2
+PUR4373,45,40-50,Purchasing,Suburb,Post Graduate,Referral,1,No,7,Yes,24076,Yes,1
+MKT9945,54,50-60,Marketing,Suburb,Post Graduate,Recruitment Agency,1,Yes,1,Yes,24076,Yes,2
+TECH3082,52,50-60,Technology,Suburb,Post Graduate,On-Campus,3,Yes,7,Yes,42419,Yes,2
+HR9967,32,30-40,HR,Suburb,Under Graduate,Recruitment Agency,3,Yes,6,Yes,42419,Yes,2
+PUR7748,32,30-40,Purchasing,Suburb,Post Graduate,On-Campus,4,Yes,5,No,65715,Yes,3
+SAL1417,26,20-30,Sales,City,Post Graduate,Walk-in,2,Yes,0,No,29805,No,5
+PUR9306,30,30-40,Purchasing,Suburb,Under Graduate,On-Campus,4,Yes,6,No,65715,No,4
+SAL9808,44,40-50,Sales,City,Post Graduate,On-Campus,2,No,9,No,29805,No,4
+PUR4974,42,40-50,Purchasing,Suburb,Post Graduate,Walk-in,3,No,6,No,42419,Yes,3
+PUR4267,42,40-50,Purchasing,City,Post Graduate,On-Campus,3,Yes,8,Yes,42419,Yes,2
+PUR1825,54,50-60,Purchasing,Suburb,Post Graduate,Recruitment Agency,4,Yes,0,Yes,65715,Yes,3
+SAL8668,40,40-50,Sales,Suburb,Under Graduate,On-Campus,5,No,1,Yes,86750,No,3
+SAL6745,36,30-40,Sales,City,Post Graduate,Walk-in,4,No,8,Yes,65715,Yes,1
+PUR1412,40,40-50,Purchasing,Suburb,Post Graduate,Recruitment Agency,2,No,8,Yes,29805,No,5
+TECH8543,50,50-60,Technology,Suburb,Under Graduate,Walk-in,4,Yes,5,Yes,65715,Yes,4
+MKT8587,36,30-40,Marketing,Suburb,Post Graduate,Walk-in,1,Yes,5,No,24076,No,2
+MKT1728,42,40-50,Marketing,City,Under Graduate,Referral,2,Yes,3,Yes,29805,No,4
+MKT8164,43,40-50,Marketing,Suburb,Post Graduate,Referral,2,No,3,Yes,29805,No,4
+SAL9867,46,40-50,Sales,City,Under Graduate,Walk-in,5,No,4,Yes,86750,Yes,5
+SAL6988,37,30-40,Sales,Suburb,Under Graduate,Walk-in,3,Yes,2,Yes,42419,No,4
+TECH3504,44,40-50,Technology,Suburb,Under Graduate,Walk-in,2,Yes,0,No,29805,Yes,4
+MKT3967,52,50-60,Marketing,City,Under Graduate,Referral,3,No,0,No,42419,Yes,3
+MKT3786,53,50-60,Marketing,Suburb,Post Graduate,Referral,4,No,6,Yes,65715,Yes,5
+PUR2122,26,20-30,Purchasing,Suburb,Under Graduate,On-Campus,1,No,0,No,24076,Yes,1
+SAL5079,35,30-40,Sales,City,Post Graduate,On-Campus,5,No,0,No,86750,Yes,2
+MKT2571,49,40-50,Marketing,Suburb,Under Graduate,Walk-in,3,Yes,2,Yes,42419,No,4
+TECH6073,45,40-50,Technology,City,Under Graduate,Recruitment Agency,2,No,9,Yes,29805,Yes,2
+TECH6104,30,30-40,Technology,City,Under Graduate,Recruitment Agency,3,No,3,Yes,42419,Yes,1
+MKT3143,40,40-50,Marketing,City,Post Graduate,Referral,2,No,3,Yes,29805,Yes,2
+SAL7806,34,30-40,Sales,Suburb,Under Graduate,Referral,3,Yes,1,Yes,42419,Yes,1
+TECH8357,45,40-50,Technology,City,Post Graduate,Referral,2,Yes,0,No,29805,Yes,3
+PUR4440,53,50-60,Purchasing,City,Post Graduate,Walk-in,4,No,2,Yes,65715,No,4
+TECH4766,36,30-40,Technology,Suburb,Post Graduate,Recruitment Agency,2,No,3,Yes,29805,No,1
+HR6644,24,20-30,HR,City,Post Graduate,On-Campus,2,No,2,Yes,29805,Yes,2
+HR3914,40,40-50,HR,Suburb,Post Graduate,Walk-in,1,Yes,7,No,24076,No,4
+SAL5968,46,40-50,Sales,Suburb,Post Graduate,On-Campus,2,Yes,9,Yes,29805,No,3
+MKT6917,24,20-30,Marketing,Suburb,Post Graduate,On-Campus,1,Yes,0,Yes,24076,Yes,4
+SAL9787,53,50-60,Sales,Suburb,Post Graduate,Walk-in,5,No,1,Yes,86750,No,1
+SAL1728,33,30-40,Sales,City,Post Graduate,On-Campus,1,Yes,6,No,24076,Yes,3
+SAL2365,31,30-40,Sales,City,Under Graduate,Recruitment Agency,4,No,3,Yes,65715,No,2
+SAL5492,34,30-40,Sales,City,Under Graduate,On-Campus,1,No,7,Yes,24076,No,3
+PUR1698,39,30-40,Purchasing,City,Under Graduate,Recruitment Agency,5,No,2,Yes,86750,No,3
+PUR8186,37,30-40,Purchasing,City,Under Graduate,Recruitment Agency,4,Yes,5,No,65715,Yes,5
+TECH1395,47,40-50,Technology,Suburb,Under Graduate,Recruitment Agency,3,No,8,Yes,42419,No,3
+HR8400,53,50-60,HR,City,Post Graduate,Referral,3,Yes,0,Yes,42419,No,3
+SAL9082,39,30-40,Sales,City,Post Graduate,On-Campus,1,Yes,0,Yes,24076,Yes,4
+TECH5171,48,40-50,Technology,City,Post Graduate,Walk-in,1,No,7,No,24076,Yes,2
+HR5360,51,50-60,HR,Suburb,Post Graduate,Walk-in,5,No,2,Yes,86750,No,4
+MKT3502,48,40-50,Marketing,Suburb,Post Graduate,On-Campus,5,Yes,4,Yes,86750,Yes,4
+PUR1717,40,40-50,Purchasing,City,Post Graduate,Referral,2,No,0,Yes,29805,No,1
+HR3782,54,50-60,HR,Suburb,Post Graduate,Referral,5,Yes,4,No,86750,No,4
+MKT5946,44,40-50,Marketing,City,Under Graduate,Recruitment Agency,2,No,5,No,29805,Yes,5
+HR6486,28,20-30,HR,City,Under Graduate,On-Campus,4,Yes,7,Yes,65715,Yes,5
+PUR9335,39,30-40,Purchasing,Suburb,Under Graduate,On-Campus,1,Yes,2,No,24076,Yes,1
+PUR5980,45,40-50,Purchasing,Suburb,Under Graduate,Walk-in,4,Yes,2,No,65715,No,2
+TECH8266,46,40-50,Technology,City,Post Graduate,On-Campus,5,Yes,9,No,86750,Yes,2
+SAL5491,40,40-50,Sales,City,Post Graduate,Referral,4,No,8,Yes,65715,No,4
+HR8192,30,30-40,HR,Suburb,Post Graduate,On-Campus,4,No,3,Yes,65715,Yes,4
+HR6588,31,30-40,HR,City,Under Graduate,Walk-in,4,Yes,3,No,65715,No,4
+MKT8651,28,20-30,Marketing,Suburb,Post Graduate,Recruitment Agency,5,Yes,6,No,86750,Yes,2
+PUR4636,27,20-30,Purchasing,City,Post Graduate,Walk-in,4,No,1,No,65715,No,3
+HR2167,34,30-40,HR,Suburb,Post Graduate,Walk-in,2,No,7,Yes,29805,Yes,5
+PUR2062,47,40-50,Purchasing,City,Under Graduate,Recruitment Agency,5,No,5,Yes,86750,No,3
+HR3156,54,50-60,HR,City,Post Graduate,Walk-in,4,No,2,No,65715,Yes,3
+TECH8860,51,50-60,Technology,Suburb,Under Graduate,Walk-in,5,No,8,No,86750,Yes,2
+SAL6161,50,50-60,Sales,City,Under Graduate,On-Campus,3,No,4,No,42419,No,3
+HR6305,33,30-40,HR,City,Under Graduate,On-Campus,2,Yes,7,No,29805,Yes,1
+PUR7541,47,40-50,Purchasing,Suburb,Under Graduate,Recruitment Agency,4,No,6,Yes,65715,No,4
+TECH5729,23,20-30,Technology,City,Post Graduate,On-Campus,3,No,7,No,42419,No,1
+HR8330,33,30-40,HR,City,Under Graduate,On-Campus,3,Yes,6,Yes,42419,Yes,5
+MKT6334,41,40-50,Marketing,City,Under Graduate,Walk-in,5,No,2,No,86750,No,4
+SAL9924,31,30-40,Sales,Suburb,Post Graduate,Referral,3,No,1,No,42419,Yes,3
+HR5330,49,40-50,HR,Suburb,Post Graduate,On-Campus,2,No,6,No,29805,Yes,5
+TECH9010,24,20-30,Technology,Suburb,Under Graduate,Referral,2,No,2,No,29805,No,4
+MKT7801,34,30-40,Marketing,City,Post Graduate,On-Campus,1,No,2,No,24076,Yes,3
+TECH5846,26,20-30,Technology,City,Under Graduate,On-Campus,2,Yes,1,Yes,29805,No,1
+TECH7731,26,20-30,Technology,City,Under Graduate,Recruitment Agency,3,No,3,No,42419,No,4
